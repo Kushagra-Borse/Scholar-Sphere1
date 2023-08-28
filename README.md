@@ -9,4 +9,4 @@ Run git clone https://github.com/Kushagra-Borse/Scholar-Sphere1.git
 
 In the terminal, go to the folder containing package.json
 
-Run npm install to install all node modules
+Run ```npm install```  to install all node modules
