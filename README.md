@@ -1,5 +1,5 @@
 # Scholar-Sphere1
-Made with love by me and my fellow friends
+Made with love by me and my fellow friends (Priyanshu, Abhyuday and Satvik)
 
 #Instructions:
 
