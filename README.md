@@ -1,7 +1,7 @@
 # Scholar-Sphere1
 Made with love by me and my fellow friends
 
-Instructions:
+#Instructions:
 
 Open the terminal in a folder to store the project
 
